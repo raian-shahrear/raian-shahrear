@@ -1,10 +1,16 @@
-### Hi there 👋, myself Raian Shahrear
-#### Web Developer
+## Hi there 👋, This is Raian Shahrear
+
 I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack development and made some projects based on this technology. I am looking forward to know more staff and trying to be an expert on MERN.
 
-Skills: MongoDB / Express JS / REACT / JS / HTML / CSS
+### Skills: 
+✅ MongoDB
+✅ Express JS 
+✅ REACT 
+✅ JS
+✅ HTML
+✅ CSS
 
-- 🔭 I’m currently working on MERN Stack Development 
+- 💻 I’m currently working on MERN Stack Development 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about React JS 
 
