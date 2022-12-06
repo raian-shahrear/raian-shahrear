@@ -1,19 +1,19 @@
 ## Hi there 👋, This is Raian Shahrear
 
-<p>😎 I am a MERN stack developer</p>
-<p>💻 Love to write code</p>
+😎 I am a MERN stack developer \
+💻 Love to write code
 
 ![Profile views](https://gpvc.arturio.dev/raian-shahrear)
 
 I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack development and made some projects based on this technology. I am looking forward to know more staff and trying to be an expert on MERN.
 
 ### Skills and Experiences: 
-✅ MongoDB\
-✅ Express JS
-<p>✅ React JS</p> 
-<p>✅ JavaScript</p>
-<p>✅ HTML</p>
-<p>✅ CSS</p>
+✅ MongoDB \
+✅ Express JS \
+✅ React JS \
+✅ JavaScript \
+✅ HTML \
+✅ CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raian-shahrear)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raian-shahrear/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raian.shahrear.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Raian_Shahrear)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20705955)  
 
