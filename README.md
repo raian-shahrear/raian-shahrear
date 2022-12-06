@@ -3,15 +3,14 @@
 I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack development and made some projects based on this technology. I am looking forward to know more staff and trying to be an expert on MERN.
 
 ### Skills: 
-- ✅ MongoDB
-- ✅ Express JS 
-- ✅ REACT 
-- ✅ JS
-- ✅ HTML
-- ✅ CSS
-<br\>
-- 💻 I’m currently working on MERN Stack Development 
-- 🌱 I’m currently learning Redux 
+✅ MongoDB \n
+✅ Express JS \n
+✅ REACT 
+✅ JS
+✅ HTML
+✅ CSS
+
+- 🌱 I’m currently learning Redux, Typescript
 - 💬 Ask me about React JS 
 
 
@@ -24,3 +23,4 @@ I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack develo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raian-shahrear&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/raian-shahrear)  
+
