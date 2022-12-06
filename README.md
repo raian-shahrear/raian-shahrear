@@ -1,5 +1,4 @@
-## Hi there 👋, This is Raian Shahrear
-
+## Hi there 👋 This is Raian Shahrear
 😎 I am a MERN stack developer \
 💻 Love to write code \
 🌱 I’m currently learning **Redux, Typescript** \
