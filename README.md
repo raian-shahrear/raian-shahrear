@@ -1,14 +1,17 @@
 ## Hi there 👋, This is Raian Shahrear
 
+<p>😎 I am a MERN stack developer</p>
+<p>💻 Love to write code</p>
+
 ![Profile views](https://gpvc.arturio.dev/raian-shahrear)
 
 I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack development and made some projects based on this technology. I am looking forward to know more staff and trying to be an expert on MERN.
 
-### Skills: 
-<p style="margin-bottom-0">✅ MongoDB</p>
+### Skills and Experiences: 
+<p>✅ MongoDB</p>
 <p>✅ Express JS</p>
-<p>✅ REACT</p> 
-<p>✅ JS</p>
+<p>✅ React JS</p> 
+<p>✅ JavaScript</p>
 <p>✅ HTML</p>
 <p>✅ CSS</p>
 
