@@ -2,8 +2,7 @@
 😎 I am a MERN stack developer \
 💻 Love to write code \
 🌱 I’m currently learning **Redux, Typescript** \
-💬 Ask me about **React JS** \
-📫 How to reach me **raianshahrearbd@gmail.com**
+📫 Reach me through **raianshahrearbd@gmail.com**
 
 ![Profile views](https://gpvc.arturio.dev/raian-shahrear)
 
