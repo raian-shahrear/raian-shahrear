@@ -5,10 +5,10 @@ I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack develo
 ### Skills: 
 <p>✅ MongoDB</p>
 <p>✅ Express JS</p>
-✅ REACT 
-✅ JS
-✅ HTML
-✅ CSS
+<p>✅ REACT</p> 
+<p>✅ JS</p>
+<p>✅ HTML</p>
+<p>✅ CSS</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raian-shahrear)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raian-shahrear/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raian.shahrear.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Raian_Shahrear)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20705955)  
 
@@ -21,5 +21,5 @@ I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack develo
 ![Profile views](https://gpvc.arturio.dev/raian-shahrear)  
 
 
-## 📧 Contact Me
-raianshahrearbd@gmail.com
+## Contact Me:
+📧 raianshahrearbd@gmail.com
