@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, myself Raian Shahrear
+#### Web Developer
+I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack development and made some projects based on this technology. I am looking forward to know more staff and trying to be an expert on MERN.
 
-<!--
-**raian-shahrear/raian-shahrear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: MongoDB / Express JS / REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MERN Stack Development 
+- 🌱 I’m currently learning Redux 
+- 💬 Ask me about React JS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raian-shahrear)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raian-shahrear/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raian.shahrear.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Raian_Shahrear)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20705955)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=raian-shahrear)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raian-shahrear)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raian-shahrear&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/raian-shahrear)  
