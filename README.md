@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Raian Shahrear
-😎 I am a MERN stack developer \
+😎 I am a **MERN stack** developer \
 💻 Love to write code \
 🌱 I’m currently learning **Redux, Typescript** \
 📫 Reach me through **raianshahrearbd@gmail.com**
@@ -10,11 +10,11 @@ I am Raian Shahrear from Bangladesh. Currently, I have learned MERN stack develo
 
 ## Skills and Experiences: 
 ✅ MongoDB \
-✅ Express JS \
+✅ Node JS | Express JS \
 ✅ React JS \
 ✅ JavaScript \
-✅ HTML \
-✅ CSS | Bootstrap | TailwindCSS
+✅ CSS | Bootstrap | TailwindCSS \
+✅ HTML
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raian-shahrear&show_icons=true&locale=en&layout=compact" alt="raian-shahrear" /></p>
 
