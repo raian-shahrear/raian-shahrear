@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/4p0RwGW/Raian-Cover.png" width="1500" />
+<img src="https://i.ibb.co/L9CRfSf/Raian-Cover.png" width="1500" />
 
 ## Hi 👋 This is Raian Shahrear
 😎 I am a **MERN stack** developer \
