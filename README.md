@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/4p0RwGW/Raian-Cover.png" width="1500" />
 
-## Hi there 👋 This is Raian Shahrear
+## Hi 👋 This is Raian Shahrear
 😎 I am a **MERN stack** developer \
 💻 Love to write code \
 🌱 I’m currently learning **Redux, Typescript** \
