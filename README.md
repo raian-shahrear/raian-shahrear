@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/844JMkL/Raian-Cover.png)
+<img src="https://i.ibb.co/4p0RwGW/Raian-Cover.png" width="1500" />
 
 ## Hi there 👋 This is Raian Shahrear
 😎 I am a **MERN stack** developer \
