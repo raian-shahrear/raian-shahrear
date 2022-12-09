@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/L9CRfSf/Raian-Cover.png" width="1500" />
 
 ## Hi 👋 This is Raian Shahrear
-😎 I am a **MERN stack** developer \
+😎 **Frontend** || **React** || **MERN stack** \
 💻 Love to write code \
 🌱 I’m currently learning **Redux, Typescript** \
 📫 Reach me through **raianshahrearbd@gmail.com**
