@@ -1,10 +1,10 @@
 <img src="https://i.ibb.co/L9CRfSf/Raian-Cover.png" width="1500" />
 
 ## Hi 👋 This is Raian Shahrear
-😎 **Frontend** || **React** || **MERN stack** \
+😎 **Frontend** || **React** || **MERN Stack** \
 🌐 Visit My <a href='https://raian-portfolio.web.app/'>**Portfolio**</a> \
 💻 Love to write code \
-🌱 I’m currently learning **Redux, Typescript** \
+🌱 I’m currently learning **Redux, Next.js Typescript** \
 📫 Reach me through **raianshahrearbd@gmail.com**
 
 ![Profile views](https://gpvc.arturio.dev/raian-shahrear)
