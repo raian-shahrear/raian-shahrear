@@ -4,7 +4,7 @@
 😎 **Frontend** || **React** || **MERN Stack** \
 🌐 Visit My <a href='https://raian-portfolio.web.app/'>**Portfolio**</a> \
 💻 Love to write code \
-🌱 I’m currently learning **Redux, Next.js Typescript** \
+🌱 I’m currently learning **Redux, Next.js & Typescript** \
 📫 Reach me through **raianshahrearbd@gmail.com**
 
 ![Profile views](https://gpvc.arturio.dev/raian-shahrear)
