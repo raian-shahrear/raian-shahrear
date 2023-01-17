@@ -2,7 +2,7 @@
 
 ## Hi 👋 This is Raian Shahrear
 😎 **Frontend** || **React** || **MERN Stack** \
-🌐 Visit My <a href='https://raian-portfolio.web.app/'>**Portfolio**</a> \
+🌐 Visit My <a href='https://raian-portfolio.web.app/' target="_blanck">**Portfolio**</a> \
 💻 Love to write code \
 🌱 I’m currently learning **Redux, Next.js & Typescript** \
 📫 Reach me through **raianshahrearbd@gmail.com**
