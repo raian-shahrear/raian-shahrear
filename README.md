@@ -12,8 +12,9 @@
 I am Raian Shahrear from Bangladesh. I have learned MERN stack development and made some projects based on this technology. I am looking forward to know more staff and trying to be an expert on MERN.
 
 ## Skills and Experiences: 
-✅ MongoDB \
+✅ MongoDB | Mongoose \
 ✅ Node JS | Express JS \
+✅ Typescript \
 ✅ React JS \
 ✅ JavaScript \
 ✅ CSS | Bootstrap | TailwindCSS \
