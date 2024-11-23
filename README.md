@@ -20,10 +20,6 @@ I am Raian Shahrear from Bangladesh. I have learned MERN stack development and m
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raian-shahrear&show_icons=true&locale=en&layout=compact" alt="raian-shahrear" /></p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raian-shahrear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raian-shahrear" height="30" width="40" /></a>
