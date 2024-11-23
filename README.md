@@ -1,13 +1,13 @@
 <img src="./Raian-Cover.png" width="1500" />
 
 ## Hi 👋 This is Raian Shahrear
-😎 **Frontend** || **React** || **MERN Stack** \
+😎 **Frontend** || **ReactJS** || || **NextJS** || **MERN Stack** \
 🌐 Visit My <a href='https://portfolio-client-smoky.vercel.app/' target='_blank'>**Portfolio**</a> \
 💻 Love to write code \
-🌱 I’m currently learning **Redux, Next.js & Typescript** \
+🌱 I’m currently learning **AWS, Docker, NoSQL** \
 📫 Reach me through **raianshahrearbd@gmail.com**
 
-I am Raian Shahrear from Bangladesh. I have learned MERN stack development and made some projects based on this technology. I am looking forward to knowing more staff and trying to be an expert on MERN.
+I am Raian Shahrear from Bangladesh. I learned MERN stack development and made projects based on this technology. I look forward to knowing more staff and becoming an expert on MERN.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -20,7 +20,7 @@ I am Raian Shahrear from Bangladesh. I have learned MERN stack development and m
 ✅ MongoDB | Mongoose \
 ✅ Node JS | Express JS \
 ✅ Typescript \
-✅ React JS \
+✅ React JS | Next JS \
 ✅ JavaScript \
 ✅ CSS | Bootstrap | TailwindCSS \
 ✅ HTML
