@@ -19,11 +19,11 @@ I am Raian Shahrear from Bangladesh. I learned MERN stack development and made p
 ## Skills and Experiences: 
 ✅ MongoDB | Mongoose \
 ✅ Node JS | Express JS \
-✅ Typescript \
+✅ Redux toolkit \
 ✅ React JS | Next JS \
-✅ JavaScript \
-✅ CSS | Bootstrap | TailwindCSS \
-✅ HTML
+✅ JavaScript | Typescript \
+✅ CSS3 | Bootstrap | TailwindCSS \
+✅ HTML5
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raian-shahrear&show_icons=true&locale=en&layout=compact" alt="raian-shahrear" /></p>
 
