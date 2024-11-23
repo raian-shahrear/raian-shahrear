@@ -9,7 +9,7 @@
 
 I am Raian Shahrear from Bangladesh. I have learned MERN stack development and made some projects based on this technology. I am looking forward to know more staff and trying to be an expert on MERN.
 
-<h3 align="left">Connect with me:</h3>
+<h6 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raian-shahrear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raian-shahrear" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20705955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20705955" height="30" width="40" /></a>
