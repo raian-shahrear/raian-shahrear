@@ -10,11 +10,7 @@
 I am Raian Shahrear from Bangladesh. I learned MERN stack development and made projects based on this technology. I look forward to knowing more staff and becoming an expert on MERN.
 
 <h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/raian-shahrear" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" height="20" width="75" /></a>
-<a href="https://stackoverflow.com/users/20705955" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow" height="20" width="100" /></a>
-<a href="https://fb.com/raian.shahrear.9" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook" height="20" width="80" /></a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/raian.shahrear.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/raian-shahrear) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20705955)
 
 ## Skills and Experiences: 
 ✅ MongoDB | Mongoose \
