@@ -4,7 +4,7 @@
 😎 **Frontend** || **ReactJS** || || **NextJS** || **MERN Stack** \
 🌐 Visit My <a href='https://portfolio-client-smoky.vercel.app/' target='_blank'>**Portfolio**</a> \
 💻 Love to write code \
-🌱 I’m currently learning **AWS, Docker, NoSQL** \
+🌱 I’m currently learning **AWS, Docker, GraphQL & MySQL** \
 📫 Reach me through **raianshahrearbd@gmail.com**
 
 I am Raian Shahrear from Bangladesh. I learned MERN stack development and made projects based on this technology. I look forward to knowing more staff and becoming an expert on MERN.
