@@ -16,6 +16,8 @@ I am Raian Shahrear from Bangladesh. I learned MERN stack development and made p
 ✅ MongoDB | Mongoose \
 ✅ Node JS | Express JS \
 ✅ Redux toolkit \
+✅ RTK-query | Axios | TanStack-query \
+✅ Firebase-auth | Next-auth | JWT \
 ✅ React JS | Next JS \
 ✅ JavaScript | Typescript \
 ✅ CSS3 | Bootstrap | TailwindCSS \
