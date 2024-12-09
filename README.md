@@ -1,4 +1,4 @@
-<img src="./Raian-Cover.png" width="1500" />
+<img src="./github_cover.png" width="1500" />
 
 ## Hi 👋 This is Raian Shahrear
 😎 **Frontend** || **ReactJS** || || **NextJS** || **MERN Stack** \
